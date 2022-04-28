@@ -1,0 +1,6 @@
+/node_modules
+/venv
+manage.py
+package-lock.json
+package.json
+db.sqlite3
